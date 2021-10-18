@@ -1,0 +1,221 @@
+    1  yarn docker:dev
+    2  yarn docker:clean
+    3  yarn docker:dev
+    4  knex migrate:latest
+    5  knex migrate:latest
+    6  knex help
+    7  knex seed:run
+    8  docker exec -it dc7123d6f6dadf31e63498497e90336675c71218d8ef8f1f2ce814ef54774fd2 /bin/sh; exit
+    9  curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh
+   10  exit
+   11  cd example
+   12  ls
+   13  cd example-projects/
+   14  ls
+   15  cd custom-css-vars/
+   16  ls
+   17  npm run build
+   18  clear
+   19  $cd ../
+   20  ls
+   21  cd src/
+   22  ls
+   23  cd ../
+   24  ls
+   25  ls
+   26  npm i
+   27  clear
+   28  npm run build
+   29  npm run watch
+   30  clear
+   31  ls
+   32  cd ../
+   33  ls
+   34  cd bootstrap/
+   35  ls
+   36  npm i
+   37  ls
+   38  cd ../
+   39  ls
+   40  cd custom-css-vars/
+   41  ls
+   42  npm run watch
+   43  npm run watch
+   44  npm run watch
+   45  npm run watch
+   46  clear
+   47  npm run serve
+   48  clear
+   49  ls
+   50  clear
+   51  pwd
+   52  mkdir Ex00
+   53  mkdir covers
+   54  rm -r covers
+   55  cd Ex00
+   56  mkdir covers
+   57  cd covers
+   58  ls -a
+   59  mkdir Sony
+   60  mkdir Nintendo
+   61  mkdir Microsoft
+   62  mkdir Sega
+   63  mkdir Constructeurs
+   64  mv Sony Constructeurs
+   65  mv Nintendo Constructeurs
+   66  mv Microsoft Constructeurs
+   67  mv Sega Constructeurs
+   68  pwd
+   69  ls -a
+   70  cd Constructeurs/
+   71  ls
+   72  cd Sony
+   73  ls -a
+   74  mkdir Sony
+   75  mv Sony Consoles
+   76  cd Consoles
+   77  ls -a
+   78  mkdir PS4
+   79  mkdir PS5
+   80  ls -a
+   81  cd ..
+   82  pwd
+   83  cd ..
+   84  cd Nintendo
+   85  mkdir Consoles
+   86  mkdir Consoles portables
+   87  mkdir Consoles_portables
+   88  ls -a
+   89  rm -r portables
+   90  ls -a
+   91  cd Consoles
+   92  mkdir Gamecube
+   93  cd ..
+   94  pwd
+   95  cd Consoles_portables/
+   96  mkdir Game_Boy
+   97  pwd
+   98  cd ..
+   99  cd ..
+  100  pwd
+  101  cd Microsoft
+  102  ls -a
+  103  mkdir Consoles
+  104  cd Consoles
+  105  mkdir Xbox
+  106  mkdir Xbox360
+  107  pwd
+  108  cd ..
+  109  cd ..
+  110  cd Sega
+  111  ls -a
+  112  mkdir Consoles
+  113  cd Consoles/
+  114  mkdir Dreamcast
+  115  history
+  116  mkdir toto ; cd toto
+  117  pwd
+  118  ls
+  119  mkdir toto && cd toto
+  120  ls
+  121  pwd
+  122  cd ..
+  123  cd day00
+  124  /Users/admin/Desktop/day00/Ex00
+  125  cd /Users/admin/Desktop/day00/Ex00
+  126  pwd
+  127  Cd Ex00;mkdir covers;cd covers;mkdir Constructeurs;Cd Constructeurs;mkdir Sony;mkdir Nintendo;mkdir Microsoft;mkdir Sega
+  128  cd Ex00/;mkdir covers;cd covers;mkdir Constructeurs;cd Constructeurs;mkdir Sony;mkdir Nintendo;mkdir Microsoft;mkdir Sega
+  129  mkdir covers;cd covers;mkdir Constructeurs;cd Constructeurs;mkdir Sony;mkdir Nintendo;mkdir Microsoft;mkdir Sega
+  130  pwd
+  131  ls -a
+  132  cd Sony;mkdir Consoles;cd Consoles;mkdir PS4;mkdir PS5;cd ..;cd ..;cd Nintendo;mkdir Consoles;mkdir Consoles_portables;cd Consoles;mkdir Gamecube;cd ..;cd Consoles_portables/;mkdir Game_Boy;cd ..;cd ..;cd Microsoft;mkdir Consoles;cd Consoles;mkdir Xbox;mkdir Xbox360;cd ..;cd ..;cd Sega;mkdir Consoles;cd Consoles/;mkdir Dreamcast
+  133  pwd
+  134  mkdir covers
+  135  cd covers
+  136  ls -a
+  137  mkdir Constructeurs
+  138  cd Constructeurs
+  139  mkdir Sony
+  140  mkdir Nintendo
+  141  mkdir Microsoft
+  142  mkdir Sega
+  143  cd Sony
+  144  pwd
+  145  mkdir Consoles
+  146  cd Consoles/
+  147  mkdir PS4
+  148  mkdir PS5
+  149  cd ..
+  150  cd ..
+  151  cd Nintendo
+  152  pwd
+  153  mkdir Consoles
+  154  cd Consoles/
+  155  mkdir Gamecube
+  156  cd ..
+  157  cd ..
+  158  mkdir Consoles_portables
+  159  cd Consoles_posrtables
+  160  cd Consoles_portables
+  161  mkdir Game_Boy
+  162  pwd
+  163  cd ..
+  164  mv Consoles_portables/ Nintendo
+  165  pwd
+  166  cd Microsoft/
+  167  mkdir Consoles
+  168  cd Consoles/
+  169  mkdir Xbox
+  170  mkdir Xbox360
+  171  pwd
+  172  cd ..
+  173  cd ..
+  174  cd Sega
+  175  pwd
+  176  mkdir Consoles
+  177  cd Consoles/
+  178  mkdir Dreamcast
+  179  pwd
+  180  cd ..
+  181  cd ..
+  182  cd ..
+  183  cd ..
+  184  pwd
+  185  cd Covers_img
+  186  ls -a
+  187* mv /Users/admin/Desktop/day00/Ex00/covers_img//Users/admin/Desktop/day00/Ex00/ /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sony/Consoles/PSA/Users/admin/De
+  188  mv /Users/admin/Desktop/day00/Ex00/covers_img/playstation_4.unchartedthelostlegacy.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sony/Consoles/PSA
+  189  mv /Users/admin/Desktop/day00/Ex00/covers_img/playstation_5.farcry6.jpg  /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sony/Consoles/PS5
+  190  mv /Users/admin/Desktop/day00/Ex00/covers_img/playstation_4.unchartedthelostlegacy.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  191  mv /Users/admin/Desktop/day00/Ex00/covers_img/ps4_fifa14.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sony/Consoles/PSA
+  192  mv /Users/admin/Desktop/day00/Ex00/covers_img/ps4_fifa14.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  193  mv /Users/admin/Desktop/day00/Ex00/covers_img/gc_supermariosunshine.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Nintendo/Consoles/Gamecube 
+  194  mv /Users/admin/Desktop/day00/Ex00/covers_img/gb_pokemonblue_eu.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy 
+  195  mv /Users/admin/Desktop/day00/Ex00/covers_img/gameboy.pokmonred.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy 
+  196  mv /Users/admin/Desktop/day00/Ex00/covers_img/dc_jetgrindradio_10.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast 
+  197  mv /Users/admin/Desktop/day00/Ex00/covers_img/dc_jetsetradio_eu_front.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast 
+  198  mv /Users/admin/Desktop/day00/Ex00/covers_img/dc_shenmue_eu.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast 
+  199  mv /Users/admin/Desktop/day00/Ex00/covers_img/dc_shenmueii_5.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast 
+  200  mv /Users/admin/Desktop/day00/Ex00/covers_img/gb_pokemongreen_3.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy 
+  201  mv /Users/admin/Desktop/day00/Ex00/covers_img/gb_pokemonyellow_au.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy 
+  202  mv /Users/admin/Desktop/day00/Ex00/covers_img/gbc_pokemongold.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy 
+  203  mv /Users/admin/Desktop/day00/Ex00/covers_img/gc_mariokartdoubledash.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Nintendo/Consoles/Gamecube 
+  204  mv /Users/admin/Desktop/day00/Ex00/covers_img/playstation_4.assassinscreedodyssey.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4 
+  205  mv /Users/admin/Desktop/day00/Ex00/covers_img/playstation_4.watchdogs2.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4 
+  206  mv /Users/admin/Desktop/day00/Ex00/covers_img/playstation_5.assassinscreedvalhalla.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sony/Consoles/PS5 
+  207  mv /Users/admin/Desktop/day00/Ex00/covers_img/playstation_5.residentevilvillage_.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Sony/Consoles/PS5 
+  208  mv /Users/admin/Desktop/day00/Ex00/covers_img/x360_callfoduty3.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360 
+  209  mv /Users/admin/Desktop/day00/Ex00/covers_img/x360_callofduty2.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360 
+  210  mv /Users/admin/Desktop/day00/Ex00/covers_img/x360_callofduty4.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360 
+  211  mv /Users/admin/Desktop/day00/Ex00/covers_img/x360_callofdutyblackopsii.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360 
+  212  mv /Users/admin/Desktop/day00/Ex00/covers_img/xbox_360.fableiii.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360 
+  213  mv /Users/admin/Desktop/day00/Ex00/covers_img/xbox_deadoralive3.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox 
+  214  mv /Users/admin/Desktop/day00/Ex00/covers_img/xbox_deadtorights.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox 
+  215  mv /Users/admin/Desktop/day00/Ex00/covers_img/xbox_defjamfightforny.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox 
+  216  mv /Users/admin/Desktop/day00/Ex00/covers_img/xbox_halo_2.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox 
+  217  mv /Users/admin/Desktop/day00/Ex00/covers_img/xbox_halo2.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox 
+  218  mv /Users/admin/Desktop/day00/Ex00/covers_img/xbox_jetsetradiofuture_2.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox 
+  219  mv /Users/admin/Desktop/day00/Ex00/covers_img/xbox_needforspeedunderground2.jpg /Users/admin/Desktop/day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox 
+  220  history
+  221  history > command.txt
