@@ -1,0 +1,227 @@
+    1  yarn docker:dev
+    2  yarn docker:clean
+    3  yarn docker:dev
+    4  knex migrate:latest
+    5  knex migrate:latest
+    6  knex help
+    7  knex seed:run
+    8  docker exec -it dc7123d6f6dadf31e63498497e90336675c71218d8ef8f1f2ce814ef54774fd2 /bin/sh; exit
+    9  curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh
+   10  exit
+   11  cd example
+   12  ls
+   13  cd example-projects/
+   14  ls
+   15  cd custom-css-vars/
+   16  ls
+   17  npm run build
+   18  clear
+   19  $cd ../
+   20  ls
+   21  cd src/
+   22  ls
+   23  cd ../
+   24  ls
+   25  ls
+   26  npm i
+   27  clear
+   28  npm run build
+   29  npm run watch
+   30  clear
+   31  ls
+   32  cd ../
+   33  ls
+   34  cd bootstrap/
+   35  ls
+   36  npm i
+   37  ls
+   38  cd ../
+   39  ls
+   40  cd custom-css-vars/
+   41  ls
+   42  npm run watch
+   43  npm run watch
+   44  npm run watch
+   45  npm run watch
+   46  clear
+   47  npm run serve
+   48  clear
+   49  ls
+   50  clear
+   51  git clone https://github.com/EpitaphStudLearning/Day01.git
+   52  git clone https://github.com/szouioula/SaraZOUIOULA-day00.git
+   53  xcode-select --install
+   54  git clone https://github.com/szouioula/SaraZOUIOULA-day00.git
+   55  git clone https://github.com/EpitaphStudLearning/Day01.git
+   56  pwd
+   57  cd Rush00
+   58  pwd
+   59  ls -a
+   60  cd ex00
+   61  head -9 deposition_Joe_Rugiani.txt 
+   62  head -n -2 deposition_Joe_Rugiani.txt 
+   63  head -n -2 deposition_Joe_Rugiani.txt >deposition_Joe_Rugiani.txt 
+   64  head -n -2 deposition_Joe_Rugiani.txt
+   65  head -2 deposition_Joe_Rugiani.txt
+   66  head -9 deposition_Joe_Rugiani.txt
+   67  head -9 deposition_Joe_Rugiani.txt 
+   68  head -n -9 deposition_Joe_Rugiani.txt 
+   69  head -n 9 deposition_Joe_Rugiani.txt 
+   70  head -9 deposition_Joe_Rugiani.txt 
+   71  head 9 deposition_Joe_Rugiani.txt 
+   72  head -n 9 deposition_Joe_Rugiani.txt 
+   73  git reset --hard
+   74  cat deposition_Joe_Rugiani.txt 
+   75  head -9 deposition_Joe_Rugiani.txt 
+   76  head -9 deposition_Joe_Rugiani.txt > fichier.txt
+   77  head -9 deposition_Joe_Rugiani.txt > deposition_Joe_Rugiani.txt
+   78  git reset --hard
+   79  head -9 deposition_Joe_Rugiani.txt >> deposition_Joe_Rugiani.txt
+   80  mv fichier.txt > deposition_Joe_Rugiani.txt 
+   81  mv fichier.txt > deposition_Joe_Rugiani.txt 
+   82  mv fichier.txt > deposition_Joe_Rugiani.txt 
+   83  mv fichier.txt  deposition_Joe_Rugiani.txt 
+   84  touch magic.txt
+   85  cd Rush00/
+   86  mkdir ex01
+   87  cd ex01
+   88  sed -i -e "s/cadillac jaune/chevrolet impala/g" deposition_Joe_Rugiani.txt 
+   89  sed -i "s/cadillac jaune/chevrolet impala/g" deposition_Joe_Rugiani.txt 
+   90  sed -i "s/rouge/vert/g" deposition_Joe_Rugiani.txt 
+   91  sed -i "s/rouge/vert/g" deposition_Joe_Rugiani.txt
+   92  sed -i "s/rouge /vert /g" deposition_Joe_Rugiani.txt
+   93  sed -i -e "s/rouge /vert /g" deposition_Joe_Rugiani.txt
+   94  sed -i -e "s/rouge/vert/g" deposition_Joe_Rugiani.txt
+   95  git add .
+   96  git commit -m 'Rush00 Ex00 & Ex01'
+   97  git push
+   98  git push
+   99  git push
+  100  git push
+  101  git push
+  102  git add .
+  103  git commit -m '
+  104  git commit -m 'Rush00 Ex00 & Ex01'
+  105  git push
+  106  cd Rush00/
+  107  cd ex02
+  108  ls -a
+  109  touch tcpd_department.txt
+  110  touch tcpd_expert_officer.txt
+  111  touch tcpd_officers.txt
+  112  ls -a
+  113  rm -r tcpd_department.txt
+  114  ls -a
+  115  awk -F '{ "Officier" ; print}'
+  116  awk -F "," '{ $2 = "Officier" ; print $0 }'
+  117  awk -F "," '{ $2 = "Officier" ; print $0 }' tcpd_department.csv 
+  118  awk -F "," '{ $2 = "Officier" ; print }' tcpd_department.csv 
+  119  cat tcpd_department.csv 
+  120  awk -F "," '{if ($2 =="Officier") {print};}' tcpd_department.csv 
+  121  awk -F "," '{if ($2 =="Officier") {print $0};}' tcpd_department.csv 
+  122  awk '{if ($2 =="Officier") {print $0};}' tcpd_department.csv 
+  123  awk '{if ($2 =="Officier") {print $0}}' tcpd_department.csv 
+  124  awk '{print ($2 =="Officier")}' tcpd_department.csv 
+  125  awk -F "," '{ $2 = "Officier" ; print $1 }' tcpd_department.csv 
+  126  awk '{if ($2 =="Officier") {print $1}}' tcpd_department.csv 
+  127  awk '{if ($2 =="Officier") {print }}' tcpd_department.csv 
+  128  awk -F ",officier," tcpd_department.csv 
+  129  awk -F "," '$2==Officier' tcpd_department.csv 
+  130  awk -F "," '$2=="Officier"' tcpd_department.csv 
+  131  awk -F ',' '$2=="Officier"' tcpd_department.csv 
+  132  awk -F ',' '$2 == "Officier"' tcpd_department.csv 
+  133  awk -Fv ',' '$2 == "Officer && $3>a"' tcpd_department.csv 
+  134  awk -F ',' '$2 == "Officer" && max($3)' tcpd_department.csv 
+  135  awk -Fv ',' a=0  '$2 == "Officer" && $3>a {a=$3}' tcpd_department.csv 
+  136  awk -Fv ',' a=0  '($2 == "Officer" && $3>a) {a=$3}' tcpd_department.csv 
+  137  awk -v a=0  '($2 == "Officer" && $3>a) {a=$3}' tcpd_department.csv 
+  138  awk -Fv ',' a=0  '($2 == "Officer" &&>a) {a=$3}' tcpd_department.csv 
+  139  awk -Fv ',' a=0  '$2 == "Officer" && $3>a {a=$3}' tcpd_department.csv 
+  140  awk -v a=0  '$2 == "Officer" && $3>a {a=$3}' tcpd_department.csv 
+  141  awk -v a=0  '$2 == "Officer" && $3>a {a=$3}' tcpd_department.csv 
+  142  awk -Fv ',' a=0  '$2 == "Officer" && $3>a {a=$3}' tcpd_department.csv 
+  143  awk -F "," -v a=0  '$2 == "Officer" && $3>a {a=$3}' tcpd_department.csv 
+  144  awk -Fv ',' a=0  '$2 == "Officer" && $3>a {a=$3}' tcpd_department.csv 
+  145  awk -Fv ',' a=0  '$2 == "Officer" && $3>a {a=$3; print}' tcpd_department.csv 
+  146  awk -Fv ',' a=0  '$2 == "Officer" && $3>a {a=$3; print;}' tcpd_[Btcpd_department.csv 
+  147  awk -Fv ',' a=0  '$2 == "Officer" && $3>a {a=$3}' tcpd_department.csv 
+  148  cat instructions
+  149  pwd
+  150  ls -a
+  151  cd Murder_in_terminal_city/
+  152  cat instructions
+  153  cat cheatsheet.md
+  154  grep 'CLUE' crimescene 
+  155  grep 'Annalb
+q
+  156  grep 'Annabel' people 
+  157* awk'M' people > suspect
+  158  grep 'Buckingham Place' suspect > list
+  159  grep 'Hart Place' suspect > list
+  160  grep 'Buckingham Place' suspect >> list
+  161  grep 'Annabel' people >annabel
+  162  grep 'F' annabel >annabel
+  163* grep 'Annabel' people >annabel2
+  164  grep 'F' annabel >annabel2
+  165  mv annabel2 annabel
+  166  pwd
+  167  cd streets/
+  168  grep Hart_Place 
+  169  cat Hart_Place 
+  170  cat Buckingham_Place 
+  171  cd ..
+  172  cd interviews
+  173  cat interview-47246024
+  174  cat Hart_Place 
+  175  cd.. 
+  176  cd .. 
+  177  cat Hart_Place 
+  178  cd streets/
+  179  cat Hart_Place 
+  180  cd ..
+  181  cd interviews
+  182  cat interview-47246024
+  183  cd ..
+  184  cd streets/
+  185  cat Buckingham_Place 
+  186  cd ..
+  187  cd interviews
+  188  cat interview-699607
+  189  grep 'L337' vehicles
+  190  cd ..
+  191  grep 'L337' vehicles
+  192  egrep 'honda|blue|L337'
+  193  egrep 'honda|blue|L337' vehicles > suspect
+  194  grep -A5 'L337' vehicles
+  195  grep -A5 'L337' vehicles >suspect
+  196  grep 'katie Park' people 
+  197  grep 'Katie Park' people 
+  198  grep 'Mike Bostock' people 
+  199  grep -A5 'L337' vehicles >suspect
+  200  grep -A5 'L337' vehicles >suspect
+  201  grep 'Honda' -B1 -A4 suspect >list
+  202  grep -B1 A4 'Honda' suspect >list
+  203  grep -B1-A4 'Honda' suspect >list
+  204  grep -B1A4 'Honda' suspect >list
+  205  grep -B1 A4 'Honda' suspect >list
+  206  grep -C2 'Blue' suspect >list
+  207  grep -C2 'Honda' suspect >list_suspect
+  208  grep 'Erika Owens' people
+  209  grep 'Aron Pilhofer' people
+  210  grep 'Heather Billing' people
+  211  grep 'Joe Germuska' people
+  212  grep 'Jacqui Maher' people
+  213  pwd
+  214  cd memberships/
+  215  grep 'Aron Pilhofer' AAA
+  216  grep 'Aron Pilhofer' Museum_of_Bash_History 
+  217  grep 'Joe Germuska' AAA
+  218  grep 'Jeremy Bowers' AAA
+  219  grep 'Joe Germuska' Museum_of_Bash_History 
+  220  grep 'Jeremy Bowers' Museum_of_Bash_History 
+  221  history > demarche
+
+
+
+Grep depuis People c'été pour trouver les mâles et vers la fin grep de AAA et museum_of_bash_History pour trouver le coupable (celui qui existe sur les 2 fichiers ou plus dans le dossier membership' 
+Notre coupable est Jeremy Bowers'

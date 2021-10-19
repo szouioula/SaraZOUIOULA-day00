@@ -1,0 +1,1 @@
+awk -F ',' '$2 == "Officer"' tcpd_department.csv

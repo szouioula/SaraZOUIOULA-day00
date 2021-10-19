@@ -1,0 +1,9 @@
+Ex 00 
+head -9 deposition_Joe_Rugiani.txt > fichier.txt
+mv fichier.txt  deposition_Joe_Rugiani.txt
+
+Ex 01
+
+sed -i -e "s/cadillac jaune/chevrolet impala/g" deposition_Joe_Rugiani.txt 
+sed -i -e "s/rouge/vert/g" deposition_Joe_Rugiani.txt
+
